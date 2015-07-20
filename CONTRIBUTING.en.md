@@ -1,4 +1,4 @@
-# Join Amaze UI
+# Join Us
 
 
 We would love for you to contribute to Amaze UI and help make it even better than it is today! 
@@ -11,17 +11,16 @@ We suggest new contributors to read following articles:
 
 ## Reporting Bugs
 
-- Search the [Issues](https://github.com/allmobilize/amazeui/issues/new?title=Bug%3A%20&body=**%E9%97%AE%E9%A2%98%E6%8F%8F%E8%BF%B0**%0A%0A%EF%BC%88%E6%8F%8F%E8%BF%B0%E4%B8%80%E4%B8%8B%E9%97%AE%E9%A2%98%EF%BC%89%0A%0A**%E4%BA%A7%E7%94%9F%E7%8E%AF%E5%A2%83**%0A%0A-%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8F%8A%E7%89%88%E6%9C%AC%EF%BC%9A%0A-%20%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%8A%E7%89%88%E6%9C%AC%EF%BC%9A%0A-%20%E6%BC%94%E7%A4%BA%E5%9C%B0%E5%9D%80%EF%BC%9A%0A%0A**%E5%A4%8D%E7%8E%B0%E6%AD%A5%E5%A5%8F**%0A%0A1.%20%0A2.%20%0A...) and relative comments before submitting a new issue. Probably your issue has been submitted. If this issue has already existed, you may simply add a comment on the former issue. 
-Here are some tips for submitting issues:
-- First check if your issue has been fixed in the latest version;
+- Search the [Issues](https://github.com/allmobilize/amazeui/issues/new?title=Bug%3A%20&body=**%E9%97%AE%E9%A2%98%E6%8F%8F%E8%BF%B0**%0A%0A%EF%BC%88%E6%8F%8F%E8%BF%B0%E4%B8%80%E4%B8%8B%E9%97%AE%E9%A2%98%EF%BC%89%0A%0A**%E4%BA%A7%E7%94%9F%E7%8E%AF%E5%A2%83**%0A%0A-%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8F%8A%E7%89%88%E6%9C%AC%EF%BC%9A%0A-%20%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%8A%E7%89%88%E6%9C%AC%EF%BC%9A%0A-%20%E6%BC%94%E7%A4%BA%E5%9C%B0%E5%9D%80%EF%BC%9A%0A%0A**%E5%A4%8D%E7%8E%B0%E6%AD%A5%E5%A5%8F**%0A%0A1.%20%0A2.%20%0A...) and relative comments before submitting a new issue. Probably your issue has been submitted. If this issue has already existed, you may simply add a comment on the former issue;
+- Check if your issue has been fixed in the latest version;
 - Remove other libraries, and check if the bug is caused by other libraries;
 - Describe the bug in detail, including the OS you were using, the browser you were using and their versions;
 - Add some screen shot if possible.
 - Use online pages to present your issue if possible. We recommend tools like JSBin.
 
-In order to help recreate the bug, we use **[JSBin to build an online debugging tool](http://bin.amazeui.org)**. You can paste your code with issue in that tool and send it back to us.
+In order to help recreate the bug, we use JSBin to build an **[online debugging tool](http://bin.amazeui.org)**. You can paste your code with issue in that tool and send it back to us.
 
-**Bug Reporting Template**（[Click here to use](https://github.com/allmobilize/amazeui/issues/new?title=Bug%3A%20&body=**%E9%97%AE%E9%A2%98%E6%8F%8F%E8%BF%B0**%0A%0A%EF%BC%88%E6%8F%8F%E8%BF%B0%E4%B8%80%E4%B8%8B%E9%97%AE%E9%A2%98%EF%BC%89%0A%0A**%E4%BA%A7%E7%94%9F%E7%8E%AF%E5%A2%83**%0A%0A-%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8F%8A%E7%89%88%E6%9C%AC%EF%BC%9A%0A-%20%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%8A%E7%89%88%E6%9C%AC%EF%BC%9A%0A-%20%E6%BC%94%E7%A4%BA%E5%9C%B0%E5%9D%80%EF%BC%9A%0A%0A**%E5%A4%8D%E7%8E%B0%E6%AD%A5%E5%A5%8F**%0A%0A1.%20%0A2.%20%0A...)）
+**Bug Reporting Template**([Click here to use](https://github.com/allmobilize/amazeui/issues/new?title=Bug%3A%20&body=**Description**%0A%0A(Describe+your+issue)%0A%0A**Environment**%0A%0A-%20Which+OS+are+you+using%3f+Which+version%3f%0A-%20Which+browser+are+you+using%3f+Which+version%3f%0A-%20Presentation+URL%0A%0A**How+to+recreate+the+bug**%0A%0A1.%20%0A2.%20%0A...))
 
 ```
 **Description**
@@ -43,7 +42,7 @@ In order to help recreate the bug, we use **[JSBin to build an online debugging 
 
 ## Need new functions?
 
-We will try to satisfy all our users resonable need if it is not conflick with our goals and concepts. Please do following things before submitting your need:
+We will try to satisfy all our users resonable need if it is not conflict with our goals and concepts. Please do following things before submitting your need:
 
 - Visit our [website](http://amazeui.org/), and make sure that your need is currently not satisfied;
 - Search in [Issues](https://github.com/allmobilize/amazeui/issues) and [Roadmap](https://github.com/allmobilize/amazeui/wiki/Roadmap), and make sure your need hasn't been submitted by others or in our plan;
